@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JakeBrowning90/local-library/issues"
   },
-  "homepage": "https://github.com/JakeBrowning90/local-library#readme"
+  "homepage": "https://github.com/JakeBrowning90/local-library#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
